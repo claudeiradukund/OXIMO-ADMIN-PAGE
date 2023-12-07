@@ -1,0 +1,18 @@
+.inputbox{
+    width:80%;
+    height:auto;
+}
+.inputbox textarea{
+    width:62%;
+    height:auto;
+    margin-left:31%;
+    background-color:white;
+}
+.inputbox span{
+    margin-left:31%;
+    margin-top:1px;
+}
+.text-center{
+    color:DodgerBlue;
+    
+}
